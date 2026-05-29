@@ -149,6 +149,13 @@ https://drive.google.com/drive/u/1/folders/1xGZvybMluIIh4io-adG7qVbN4gBFYAM7
 
 ---
 
+# Requirements
+
+- MATLAB
+- EEGLAB
+EEGLAB can be downloaded from:
+https://drive.google.com/drive/u/1/folders/19B8MjHXBNQLKtm9t--vRwPFLufL9X8dj
+
 # References
 
 - Ofner et al., 2017
