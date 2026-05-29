@@ -22,6 +22,10 @@ Recording setup:
 - 10 runs per subject
 - 60 trials per class
 
+The dataset is too large to be hosted on GithHub.
+Download it from:
+https://drive.google.com/drive/u/1/folders/1ZnjTmi_eZ6VL-vtPLYop3aIjCULcL_ZB 
+
 --- 
 
 # Exercise 1 — Preprocessing (ERP)
@@ -139,6 +143,9 @@ Movement onset:
 - Or computed from sensors
   
 Results depend on preprocessing choices
+
+Results can be downloaded from:
+https://drive.google.com/drive/u/1/folders/1xGZvybMluIIh4io-adG7qVbN4gBFYAM7
 
 ---
 
